@@ -16,7 +16,7 @@ Casual Bananas was also involved in developing various security-related tools, i
 
 ## 📬 Reconnecting with the Community
 
-This organization was created by popular request. Over the years, many of you reached out asking about old files, codebases, or simply where everyone went. If you're looking to reconnect, we’re maintaining a registry of former members and collaborators. Drop us a message at [email address] and we’ll help coordinate where possible.
+This organization was created by popular request. Over the years, many of you reached out asking about old files, codebases, or simply where everyone went. If you're looking to reconnect, we’re maintaining a registry of former members and collaborators. Drop us a message at [info@casualbananas.com](mailto:info@casualbananas.com) and we’ll help coordinate where possible.
 
 ## ❓ FAQ
 
